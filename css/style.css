@@ -1,0 +1,46 @@
+h3{text-align: center;}
+p{text-align: center;
+}
+body{
+    background-color: antiquewhite;
+    
+}
+/* image{
+    height: 250px;
+    
+} */
+table{
+    background-color: antiquewhite;
+    text-align: center;
+    table-layout: auto;
+    margin-left: 2cm;
+}
+.pic{
+    text-align: center;
+}
+.navbar{
+    background-color:  antiquewhite !important;
+}
+.website{
+    text-align: center;
+}
+li{
+    text-align: center;
+}
+#ollist{
+    align-content: center;
+    width: 25%;
+}
+#ullist {
+    align-content: center;
+    width: 25%;
+}
+ol{
+    text-align: center;
+    align-items: center;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+img{
+    margin: 2em;
+}
